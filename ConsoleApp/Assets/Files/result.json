@@ -1,0 +1,40 @@
+{
+  "threads": [
+    {
+      "ThreadId": 4,
+      "ThreadTime": 314,
+      "MethodsInfo": [
+        {
+          "ElapsedTime": 0.0,
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Methods": null
+        },
+        {
+          "ElapsedTime": 157.0,
+          "MethodName": "InnerMethod",
+          "ClassName": "Bar",
+          "Methods": null
+        }
+      ]
+    },
+    {
+      "ThreadId": 5,
+      "ThreadTime": 314,
+      "MethodsInfo": [
+        {
+          "ElapsedTime": 0.0,
+          "MethodName": "MyMethod",
+          "ClassName": "Foo",
+          "Methods": null
+        },
+        {
+          "ElapsedTime": 157.0,
+          "MethodName": "InnerMethod",
+          "ClassName": "Bar",
+          "Methods": null
+        }
+      ]
+    }
+  ]
+}
